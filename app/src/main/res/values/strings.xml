@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="button_1">传感器列表</string>
+    <string name="button_2">陀螺仪传感器</string>
+    <string name="button_3">摄像</string>
+    <string name="button_4">摄像</string>
+    <string name="button_5">RAW 拍照</string>
+    <string name="record">Record</string>
+    <string name="play_music">Play</string>
+    <string name="camera_error">error</string>
+    <string name="stop">Stop</string>
+    <string name="permission_request">permission</string>
+    <string name="intro_message">intro</string>
+    <string name="ois">OIS</string>
+    <string name="eis">EIS</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This app needs camera permission.</string>
+    <string name="button_6">拍照</string>
+    <string name="button_8">深度</string>
+    <string name="chart_name">折线图</string>
+    <string name="button_7">折线图</string>
+    <string name="start">Start</string>
+    <string name="ois_on">OIS: ON</string>
+    <string name="ois_off">OIS: OFF</string>
+    <string name="changeCamera">changeCamera</string>
+    <string name="main_camera">Main Camera</string>
+    <string name="sub_camera">Sub Camera</string>
+    <string name="button_10">Demo</string>
+    <string name="button_11">双目拍照</string>
+    <string name="show_picture">Show</string>
+</resources>
